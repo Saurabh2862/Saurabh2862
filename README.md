@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Structures, Full Stack Web Development
 
 - 📫 How to reach me https://www.linkedin.com/in/saurabh-pandey-9b2224228/
-
+- 😄 Pronouns : He/His
 <!---
 Saurabh2862/Saurabh2862 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
