@@ -37,7 +37,7 @@
 <p align="center"> 
 
 [![Twitter Badge](https://img.shields.io/badge/-@SaurabhP9415-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_aayushimittal_)](https://twitter.com/https://twitter.com/SaurabhP9415)
-[![Linkedin Badge](https://img.shields.io/badge/-Rajan_kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/saurabh-pandey-9b2224228/)](https://www.linkedin.com/in/https://www.linkedin.com/in/saurabh-pandey-9b2224228)
+[![Linkedin Badge](https://img.shields.io/badge/-Saurabh Pandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/saurabh-pandey-9b2224228/)](https://www.linkedin.com/in/https://www.linkedin.com/in/saurabh-pandey-9b2224228)
 [![Gmail Badge](https://img.shields.io/badge/-saurabhpandey5794@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:saurabhpabdey5794@gmail.com)](mailto:saurabhpandey5794@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@pandey_saurabh1008-c14438?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/pandey_saurabh1008)](https://www.instagram.com/pandey_saurabh1008)
 
