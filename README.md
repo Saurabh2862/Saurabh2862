@@ -2,9 +2,9 @@
 ![header](https://user-images.githubusercontent.com/85401522/193738869-1aae5c48-37b8-487d-bedb-de2dba39fd5e.png)
 <h1><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> <b> नमस्ते World </b> <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krcpr007" alt="rajan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krcpr007" alt="Saurabh" /> </p>
 
-<p><i> I'm Saurabh Pandey Electroinics and Communication Undergraduate from National institute of technology Patna. I'm a Tech Enthusiast, Full stack Web Developer and an Open Source Contributor. I love to explore and learn about new domains. <b>And looking for opportunities for SDE intern role </b> </i></p>
+<p><i> I'm Saurabh Pandey, an Electronics and Communication Undergraduate from the National Institute of Technology Patna. I'm a Tech Enthusiast, Full stack Web Developer, and an Open Source Contributor. I love to explore and learn about new domains. <b>And looking for opportunities for SDE intern role </b> </i></p>
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Full Stack Web Development</code></li>
 <li> 💬 <b>Ask me about</b>: <code>Problem Solving</code>, <code>Web Development</code>, <code>Git/Github</code>, <code>C++</code>,<code>OOPs</code></li>
